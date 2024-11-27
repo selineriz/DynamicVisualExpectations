@@ -1,10 +1,8 @@
-# ExpVisSound
+# Dyanmic Visual Expectations  
 
-**Project ID**  
-EVS
 
-**Experimental location**  
-Montreal Neurological Institute, Montreal, QC
+**Experimental location**   
+UCSD, San Diego  
 
 
 **Task Description**  
