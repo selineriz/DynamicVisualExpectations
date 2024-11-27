@@ -101,7 +101,7 @@
       "category": "origin_institution",
       "values": [
         {
-          "value": "Montreal Neurological Institute"
+          "value": "UCSD"
         }
       ]
     },
@@ -109,15 +109,15 @@
       "category": "origin_city",
       "values": [
         {
-          "value": "Montreal"
+          "value": "San Diego"
         }
       ]
     },
     {
-      "category": "origin_province",
+      "category": "origin_state",
       "values": [
         {
-          "value": "Quebec"
+          "value": "California"
         }
       ]
     },
@@ -125,7 +125,7 @@
       "category": "origin_country",
       "values": [
         {
-          "value": "Canada"
+          "value": "US"
         }
       ]
     },
