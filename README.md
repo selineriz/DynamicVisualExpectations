@@ -1,4 +1,4 @@
-# Dyanmic Visual Expectations  
+# Dynamic Visual Expectations  
 
 
 **Experimental location**   
