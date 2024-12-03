@@ -1,5 +1,8 @@
 # Dynamic Visual Expectations  
 
+**Data Author**  
+Andrew Marin    
+amarin@ucsd.edu  
 
 **Experimental location**   
 UCSD, San Diego  
@@ -16,8 +19,11 @@ There were two groups of participants in the study. The first group consisted of
 The raw EEG data in this study underwent thorough preprocessing to ensure high quality for analysis. First, the data were filtered with a 0.05 to 50 Hz bandpass and a 60 Hz notch filter to remove noise. Manual inspection followed to identify and address bad channels, as well as artifacts caused by eye movements and muscle activity. Channels with issues were replaced using spherical spline interpolation, and independent component analysis (ICA) was applied to remove eye-related artifacts. Additionally, any high-frequency harmonic components identified in ICA were removed. The EEG data were segmented into 1000 ms epochs, and baseline correction was performed using the 200 ms pre-stimulus period. After artifact rejection, the data were re-filtered with a 30 Hz lowpass filter and re-referenced to an average reference. The processed data were then averaged to produce grand-averaged event-related potentials (ERPs) for each condition, with specific attention given to N1 and P2 components, as defined by peak amplitudes and latencies. Further preprocessing included the application of a 1
 
 
-**Research Paper**  
-https://www.sciencedirect.com/science/article/pii/S0010945221002859
+**Publication**     
+https://www.sciencedirect.com/science/article/pii/S0010945221002859     
+
+**Data**   
+https://osf.io/d245g/    
 
 **Contact Person**  
-Scott Huberty: amarin@ucsd.edu
+Scott Huberty: 
