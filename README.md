@@ -26,4 +26,4 @@ https://www.sciencedirect.com/science/article/pii/S0010945221002859
 https://osf.io/d245g/    
 
 **Contact Person**  
-Scott Huberty: 
+Scott Huberty: Scotteric.hub@gmail.com
